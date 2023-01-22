@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CeliaMcMahon
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning .net c#, react-native, javascript, html, css, sql
-- 💞️ I’m looking to collaborate on probably nothing just yet as I'm still pretty fresh
+- 🌱 I’m currently learning c, python, javascript, html, css and am relatively comfortable in .net/c#
+- 💞️ I’m looking to collaborate on anything that will help me learn more
 - 📫 How to reach me ...
 
 <!---
